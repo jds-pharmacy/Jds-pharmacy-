@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shelcal 500 - Verified by JDS Pharmacy</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <style>
+    body { font-family: Arial, sans-serif; background:#f5f7fa; margin:0; color:#333; }
+    .container { max-width:720px; margin:28px auto; background:#fff; padding:22px 28px; border-radius:10px; box-shadow:0 6px 20px rgba(0,0,0,0.08); }
+    h1 { text-align:center; color:#006600; margin:6px 0 6px; font-size:28px; }
+    .trusted-seal { text-align:center; margin:12px 0; }
+    .trusted-seal img { width:140px; height:auto; display:block; margin:0 auto; }
+    .info { margin-top:18px; }
+    .info p { font-size:16px; line-height:1.55; margin:8px 0; }
+    .block { background:#f8fafb; padding:12px; border-radius:8px; border:1px solid #e6eef0; margin-top:12px; }
+    .footer { margin-top:24px; text-align:center; font-size:14px; color:#666; }
+    @media (max-width:480px) { .container{ padding:16px } h1{font-size:22px} .trusted-seal img{width:110px} }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Shelcal 500</h1>
+
+    <div class="trusted-seal">
+      <!-- Make sure jds_seal.png is uploaded to the same folder on GitHub -->
+      <img src="jds_seal.png" alt="JDS Trusted Seal">
+      <p style="margin:6px 0 0;"><strong>Verified by JDS Pharmacy</strong></p>
+    </div>
+
+    <div class="info">
+      <div class="block">
+        <p><strong>Batch No:</strong> SHC500B1</p>
+        <p><strong>Expiry Date:</strong> 12/2026</p>
+        <p><strong>Medicine Name:</strong> Shelcal 500</p>
+        <p><strong>Composition (typical):</strong> Calcium (as Calcium Carbonate) 500 mg + Vitamin D3 (cholecalciferol). (Confirm with pack label.)</p>
+      </div>
+
+      <p><strong>Used For:</strong> Calcium supplementation for bone health, prevention/treatment of calcium deficiency as advised by your physician.</p>
+
+      <p><strong>Common Side Effects:</strong> Constipation, stomach discomfort; allergic reactions are rare. If you experience severe symptoms, contact a doctor immediately.</p>
+
+      <p><strong>Dosage:</strong> Follow your doctor’s instructions. Do not self-adjust dose without medical advice.</p>
+
+      <p><strong>Storage:</strong> Store below 25°C in a dry place, away from direct sunlight. Keep out of reach of children.</p>
+    </div>
+
+    <div class="footer">
+      JDS Pharmacy • Shop No: 8920183366<br>
+      This page is for customer verification and trust assurance.
+    </div>
+  </div>
+</body>
+</html>
